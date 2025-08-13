@@ -1,9 +1,9 @@
-My WriteTech Technical Writing Accelerator Portfolio
+# My WriteTech Technical Writing Accelerator Portfolio
 Welcome! 
 
 This repository contains all my project work and deliverables from the WriteTech Accelerator Program.
 
-## 🚧 Note: This portfolio is a work in progress. 
+**🚧 Note: This portfolio is a work in progress.**
 Over the course of the bootcamp, I will complete technical writing projects across various domains using modern documentation workflows and tools.
 
 ## 👨‍💻About Me:
