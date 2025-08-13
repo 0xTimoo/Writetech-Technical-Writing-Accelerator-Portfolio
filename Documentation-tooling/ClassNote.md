@@ -3,8 +3,6 @@
 
 ## Documentations.
 
-Resources: 
-https://docs.google.com/document/d/1gCx9ww3Dx_ZeX91HN9laDB4oT-ouSz_81_ZL-rm8VuE/edit?tab=t.0#heading=h.xslnn7qmd8mw
 
 ---
 
