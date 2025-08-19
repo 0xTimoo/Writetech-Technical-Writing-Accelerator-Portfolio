@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Timothy Akande's Portfolio",
+  "tagline": "Showcasing all the amazing projects that I have worked on during the Writetech Hub accelerator program, it contains all the different projects from the modules covered in the program.",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -91,7 +91,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/0xTimoo/Writetech-Technical-Writing-Accelerator-Portfolio",
           "label": "GitHub",
           "position": "right"
         }
@@ -111,15 +111,11 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Socials",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "LinkedIn",
+              "href": "https://linkedin.com/in/timothy-akande"
             },
             {
               "label": "X",
@@ -136,12 +132,16 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/0xTimoo/"
+            },
+            {
+              "label": "Hashnode",
+              "href": "https://sec-chronicles.hashnode.dev/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 Built by Timothy Akande - WriteTech Accelerator Programme 2025"
     },
     "prism": {
       "theme": {
