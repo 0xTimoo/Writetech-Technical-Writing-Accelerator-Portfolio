@@ -29,10 +29,6 @@ npm init docusaurus@latest my-website classic
 
 You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 The command also installs all necessary dependencies you need to run Docusaurus.
 
 ## Start your site
