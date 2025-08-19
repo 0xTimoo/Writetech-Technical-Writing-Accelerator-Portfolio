@@ -1,0 +1,24 @@
+{
+  "id": "documentation-tooling/AssisignmentForTheModule",
+  "title": "AssisignmentForTheModule",
+  "description": "Auditing Docusaurus template",
+  "source": "@site/docs/documentation-tooling/AssisignmentForTheModule.md",
+  "sourceDirName": "documentation-tooling",
+  "slug": "/documentation-tooling/AssisignmentForTheModule",
+  "permalink": "/docs/documentation-tooling/AssisignmentForTheModule",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation-tooling/AssisignmentForTheModule.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "ClassNote",
+    "permalink": "/docs/documentation-tooling/ClassNote"
+  }
+}

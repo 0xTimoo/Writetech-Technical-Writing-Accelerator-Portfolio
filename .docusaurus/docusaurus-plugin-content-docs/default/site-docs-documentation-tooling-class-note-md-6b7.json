@@ -1,0 +1,20 @@
+{
+  "id": "documentation-tooling/ClassNote",
+  "title": "ClassNote",
+  "description": "August 12th 2025",
+  "source": "@site/docs/documentation-tooling/ClassNote.md",
+  "sourceDirName": "documentation-tooling",
+  "slug": "/documentation-tooling/ClassNote",
+  "permalink": "/docs/documentation-tooling/ClassNote",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/documentation-tooling/ClassNote.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AssisignmentForTheModule",
+    "permalink": "/docs/documentation-tooling/AssisignmentForTheModule"
+  }
+}
