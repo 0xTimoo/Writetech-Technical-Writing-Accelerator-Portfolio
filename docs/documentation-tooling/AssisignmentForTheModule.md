@@ -1,2 +1,0 @@
-### Auditing Docusaurus template 
-

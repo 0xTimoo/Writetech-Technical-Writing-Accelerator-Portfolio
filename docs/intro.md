@@ -1,47 +1,29 @@
----
-sidebar_position: 1
----
+# My WriteTech Technical Writing Accelerator Portfolio
+Welcome! 
 
-# Timothy's Portfolio
+This repository contains all my project work and deliverables from the WriteTech Accelerator Program.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+**🚧 Note: This portfolio is a work in progress.**
+Over the course of the bootcamp, I will complete technical writing projects across various domains using modern documentation workflows and tools.
 
-## Getting Started
+## 👨‍💻About Me:
+I am a Cyber security consultant at Deloitte with years of experience in consulting on different aspect of Cyber security, I am also a technical writer who is using the combination of the experinece that I have in consuting and speaking to developers and project owners to develop a clear, user-focused documentation and other documentations that helps the user to understand how to use tech better. 
+This portfolio highlights the practical skills I’ve built during the WriteTech Accelerator.
 
-Get started by **creating a new site**.
+## 📁 Project Modules
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+| Module | Folder | Final Deliverables | Live Link |
+|--------|--------|---------------------|-----------|
+| Documentation Tooling & Static Site Generators | [`documentation-tooling/`](/docs/documentation-tooling/intro.md) | Docs-as-code workflow using Docusaurus | _[To be updated]_ |
+| API Documentation & OpenAPI | [`api-documentation/`](docs/API-Documentation-OpenAPI/intro.md) | Improved documentation for selected endpoints | _[To be updated]_ |
+| Automation & Static Site Deployment | [`docs-automation/`](docs/Automation-Workflows/intro.md) | Automated checks (style, links, builds) using tools like Vale, Spectral, and GitHub Actions | _[To be updated]_ |
+| AI for Documentation | [`ai-documentation/`](docs/AI-for-Docs/intro.md) | Comparison of AI tools or prompt-based documentation using practical examples | _[To be updated]_ |
+| DevOps & Cloud Documentation | [`devops-cloud-documentation/`](docs/DevOps-and-Cloud-Docs/intro.md) | Step-by-step guide for a DevOps/cloud tool or process (CI/CD, deployment) | _[To be updated]_ |
+| Technical Writing in Web3 | [`web3-documentation/`](docs/Web3-Docs/intro.md) | User guide for a Web3 tool, white paper draft, or improved API doc for a Web3 platform | _[To be updated]_ |
 
-### What you'll need
+## 🔗 Additional Links
+[LinkedIn](www.linkedin/in/timothy-akande) - Check out my recent posts and engagements. |
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+[Hashnode](https://sec-chronicles.hashnode.dev) - Dig deep into other technical writing projects - I write technical blog post that educates on different subjects.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Thanks for checking out my work! Feel free to follow my profile and collaborate on projects.
