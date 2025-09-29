@@ -47,10 +47,11 @@ const sidebars = {
           type: 'category',
           label: 'API Reference',
           items: [
-            'documentation-tooling/api-reference/get-user',
+            'documentation-tooling/reference/get-user',
           ]
         }
       ]
+      
     },
   ],
   
