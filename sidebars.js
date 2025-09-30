@@ -48,10 +48,10 @@ const sidebars = {
           label: 'API Reference',
           items: [
             'documentation-tooling/reference/get-user',
+            'documentation-tooling/reference/post-transaction',
           ]
         }
       ]
-      
     },
   ],
   
